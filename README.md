@@ -4,7 +4,7 @@ Connect 4 <br />
 Tic Tac Toe <br />
 Checkers <br />
 
-Game engine:      (undecided) <br />
+Game engine: (undecided) <br />
 Unity<br />
 Unreal Engine 4 <br />
 Unreal Engine 5 <br />
