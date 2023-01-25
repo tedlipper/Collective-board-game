@@ -1,8 +1,6 @@
 # Collective-board-game
-Board game ideas: (undecided) <br />
-Connect 4 <br />
-Tic Tac Toe <br />
-Checkers <br />
+Board game: Tic Tac Toe <br />
+
 
 Game engine: (undecided) <br />
 Unity<br />
